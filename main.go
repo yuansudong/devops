@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-	log.Println("init1111111")
+	log.Println("indsit1111111")
 }
